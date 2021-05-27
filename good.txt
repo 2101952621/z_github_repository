@@ -7,4 +7,7 @@ faewf
 fewaf
 faewf
 feawf fewaf feawf feawf"to master"
+<<<<<<< HEAD
 
+=======
+>>>>>>> master_game
